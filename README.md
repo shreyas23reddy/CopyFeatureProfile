@@ -38,11 +38,11 @@ pip3 install -r requirements.txt
 
 ## Execution: 
 
-Enter your ip_address :- vmanage-xxxxxx.viptela.net
-Enter your port :- 8443
-Enter your admin_username :- cisco
-Enter your admin_password :- **********
-Enter the Feature Profile Name that needs to be replicated :- Test2_WAN
-Enter the new feature profile Name :- Test2_WAN_copy
+- Enter your ip_address :- vmanage-xxxxxx.viptela.net
+- Enter your port :- 8443
+- Enter your admin_username :- cisco
+- Enter your admin_password :- **********
+- Enter the Feature Profile Name that needs to be replicated :- Test2_WAN
+- Enter the new feature profile Name :- Test2_WAN_copy
 
  Successfuly copied Test2_WAN feature profile and created Test2_WAN_copy
